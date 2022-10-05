@@ -1,4 +1,4 @@
-FROM nginx:1.23.1-alpine
+FROM nginx
 
 
 COPY ./SSL/vlhost.duckdns.org/fullchain.pem /etc/letsencrypt/live/vlhost.duckdns.org/fullchain.pem
