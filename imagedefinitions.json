@@ -1,6 +1,6 @@
 [
     {
-      "name": "pipeline_service",
-      "imageUri": "819905691997.dkr.ecr.us-east-1.amazonaws.com/codepipeline:latest"
+      "name": "codepipeline",
+      "imageUri": "819905691997.dkr.ecr.us-east-1.amazonaws.com/codepipeline:v2"
     }
   ]
